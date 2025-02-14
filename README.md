@@ -1,0 +1,2 @@
+This website was developed as part of the CommBank Forage Module, following the provided instructions to practice key web development skills
+It is a simple webpage that consists informations on tips for financial security
